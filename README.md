@@ -2,7 +2,7 @@
 This repository contains Python scripts and Jupyter Notebooks for the Instacart Basket Analysis project. The project focuses on analyzing customer purchasing behavior using Python.
 
 ## Objective
-![Instacart Logo](instacart_logo.png)
+<img src="instacart_logo.png" alt="Instacart Logo" width="200">
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The objective of this study is to analyze customer behavior and uncover patterns for growth.
 
 ## Key Features
