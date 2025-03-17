@@ -3,7 +3,7 @@ This repository contains Python scripts and Jupyter Notebooks for the Instacart 
 
 ## Objective
 <img src="instacart_logo.png" alt="Instacart Logo" width="200">
-Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The objective of this study is to analyze customer behavior and uncover patterns for growth.
+Instacart is an online grocery service available through both website and mobile app. While the platform already has strong sales, the goal of this study is to analyze customer behavior and identify patterns to drive further growth.
 
 ## Key Features
 - **Data Cleaning with Pandas**: Cleaning and preparing Instacart transaction data for analysis.
