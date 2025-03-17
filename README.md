@@ -14,10 +14,10 @@ This repository contains Python scripts and Jupyter Notebooks for the Instacart 
 - **Jupyter Notebook**
 
 ## Repository Structure
-- `Data Cleaning/`: Contains scripts for cleaning and preparing data.
-- `EDA/`: Includes notebooks for exploratory data analysis.
-- `Visualizations/`: Stores plots and charts generated for insights.
-- `Modeling/`: (If applicable) Includes predictive modeling work.
+- `Data Cleaning`: Contains scripts for cleaning and preparing data.
+- `EDA`: Includes notebooks for exploratory data analysis.
+- `Visualizations`: Stores plots and charts generated for insights.
+- `Modeling`: (If applicable) Includes predictive modeling work.
 
 ## About the Data
 The dataset comes from the Instacart Online Grocery Shopping dataset, which contains transaction records of customers’ orders. The analysis focuses on understanding purchase patterns and customer segmentation.
