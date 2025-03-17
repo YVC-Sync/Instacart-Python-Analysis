@@ -1,4 +1,4 @@
-# instacart-basket-analysis-python
+# Instacart_Python_Analysis
 This repository contains Python scripts and Jupyter Notebooks for the Instacart Basket Analysis project. The Python code focuses on data manipulation, visualization, and machine learning models to uncover trends in customer purchasing behavior.
 
 Key Features:
