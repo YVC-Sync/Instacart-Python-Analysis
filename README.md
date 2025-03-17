@@ -1,4 +1,7 @@
-# Instacart Python Analysis
+<p align="left">
+    <img src="instacart_logo.png" alt="Instacart Logo" width="80">
+    <h1 style="display: inline-block;">Instacart Python Analysis</h1>
+</p>
 
 This repository contains Python scripts and Jupyter Notebooks for the Instacart Basket Analysis project. The project focuses on analyzing customer purchasing behavior using Python.
 
