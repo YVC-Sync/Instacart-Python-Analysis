@@ -52,11 +52,11 @@ Working with this dataset required thoughtful preprocessing:
 
 ## 📊 Key Visuals & What They Show
 
-- **📅 Orders by Day of the Week:** When do people shop most?
-- **🧃 Customer Loyalty Chart:** Who keeps coming back?
-- **👨‍👩‍👧 Family-Oriented Shoppers:** Which products are repeated most in large households?
-- **📍 Regional Patterns:** Spending variations by region or location clues  
-- **📦 Product Popularity:** What’s in everyone's cart?
+- ** Orders by Day of the Week:** When do people shop most?
+- ** Customer Loyalty Chart:** Who keeps coming back?
+- ** Family-Oriented Shoppers:** Which products are repeated most in large households?
+- ** Regional Patterns:** Spending variations by region or location clues  
+- ** Product Popularity:** What’s in everyone's cart?
 
 ---
 
