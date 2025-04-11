@@ -4,7 +4,7 @@
 
 ## Objective
 <img src="instacart_logo.png" alt="Instacart Logo" width="200">
-This project explores customer behavior in an online grocery platform using Python. I focused on data wrangling, feature engineering, and predictive modeling to find key trends — like which customer types order most frequently, which products dominate carts, and what drives loyalty.
+This project explores customer behavior in an online grocery platform using Python. I focused on data wrangling, feature engineering, and predictive modeling to find key trends like which customer types order most frequently, which products dominate carts, and what drives loyalty.
 
 ---
 
