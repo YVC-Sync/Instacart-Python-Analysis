@@ -48,9 +48,6 @@ Working with this dataset required thoughtful preprocessing:
 - Feature creation (e.g. days since prior order, reorder rates)  
 - Segment profiling and visualization
 
-- 
-> 🛠️ Tools Used: Pandas (Cleaning & Merging), NumPy (Transformations)
-
 ---
 
 ## 📊 Key Visuals & What They Show
@@ -77,7 +74,6 @@ Working with this dataset required thoughtful preprocessing:
 ---
 
 ## 💼 From Data to Decisions
-
 Based on this analysis, here’s how Instacart could take smarter action:
 
 1. **🎯 Pinpoint Peak Days**  
@@ -94,7 +90,7 @@ Based on this analysis, here’s how Instacart could take smarter action:
 
 ---
 
-## ⚙️ Technologies Used
+## 🛠️ Tools Used
 
 - **Python** (Pandas, NumPy) — for data wrangling, analysis, and feature engineering  
 - **Matplotlib & Seaborn** — for data visualization  
