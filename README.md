@@ -27,10 +27,10 @@ This project explores customer behavior in an online grocery platform using Pyth
 Instacart’s dataset offers a detailed look at customer orders. The data can help us understand customer behavior in order to support smarter decision-making across Instacart’s platform.
 
 The questions we must explore are:
-- 🛒 What day/time do customers prefer to shop?
-- 📦 What products are bought most often?
-- 🔁 Who are the loyal customers?
-- 🧺 Are there spending patterns based on region or family size?
+- What day/time do customers prefer to shop?
+- What products are bought most often?
+- Who are the loyal customers?
+- Are there spending patterns based on region or family size?
 
 ---
 
@@ -52,11 +52,11 @@ Working with this dataset required thoughtful preprocessing:
 
 ## 📊 Key Visuals & What They Show
 
-- ** Orders by Day of the Week:** When do people shop most?
-- ** Customer Loyalty Chart:** Who keeps coming back?
-- ** Family-Oriented Shoppers:** Which products are repeated most in large households?
-- ** Regional Patterns:** Spending variations by region or location clues  
-- ** Product Popularity:** What’s in everyone's cart?
+- **Orders by Day of the Week:** When do people shop most?
+- **Customer Loyalty Chart:** Who keeps coming back?
+- **Family-Oriented Shoppers:** Which products are repeated most in large households?
+- **Regional Patterns:** Spending variations by region or location clues  
+- **Product Popularity:** What’s in everyone's cart?
 
 ---
 
@@ -76,16 +76,16 @@ Working with this dataset required thoughtful preprocessing:
 ## 💼 From Data to Decisions
 Based on this analysis, here’s how Instacart could take smarter action:
 
-1. **🎯 Pinpoint Peak Days**  
+1. **Pinpoint Peak Days**  
   Weekends and Mondays were high-traffic reorder days. Promotions or reminders could boost engagement.
 
-2. **🧃 Reach Loyalty Clusters**  
+2. **Reach Loyalty Clusters**  
   Families and loyal reordering users are prime targets for subscription incentives and bundled offers.
 
-3. **📍 Prioritize Regional Needs**  
+3. **Prioritize Regional Needs**  
   Stock more family essentials in Midwest/Southern areas; test specialty offerings in coastal regions.
 
-4. **📊 Enhance Personalization**  
+4. **Enhance Personalization**  
   Use behavior-based clusters to refine targeting for recommendations, promos, and seasonal items.
 
 ---
