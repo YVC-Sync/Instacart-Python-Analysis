@@ -100,7 +100,7 @@ Based on this analysis, here’s how Instacart could take smarter action:
 
 ## 📁 Repository Structure
 
-```sql
+```bash
 Instacart-Python-Analysis
 │
 ├── Analysis/                    # Final data checks and QA on grouped results
