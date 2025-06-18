@@ -112,3 +112,5 @@ Instacart-Python-Analysis
 ├── instacart_logo.png         # Custom header image for visual polish
 └── README.md                  # Project overview, insights, and repo guide
 ```
+### 🔗 View the Full Case Study  
+[📂 www.yariselvelacanto.com/analyst](http://www.yariselvelacanto.com/analyst)
